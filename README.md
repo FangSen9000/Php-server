@@ -1,4 +1,4 @@
-# Php-server
+# Php-server and client
 使用PHP和NetBeans创建基于XAMPP的前后端系统
 
 开发了一个移动后端即时服务（MBaaS），为移动应用程序提供云数据服务，它包含四部分：用户页面，开发CRUD数据库功能，开发Restful服务，部署客户端与服务器应用程序。
